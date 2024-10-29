@@ -1,5 +1,5 @@
-# Kalkulator-sederhana
-P3
+//Kalkulator-sederhana kreshna k k
+//P3, 5048241029
 
 #include <stdio.h>
 #include <stdlib.h>
